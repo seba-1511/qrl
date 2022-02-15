@@ -31,7 +31,6 @@ or with the following BibTex entry:
     publisher={PMLR},
 }
 ~~~
-~~~
 
 ## Usage
 
