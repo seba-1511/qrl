@@ -9,7 +9,7 @@ This code provides a re-implementation of SAC combined with RQMC. It is based on
 ## Resources
 
 * Website: [seba1511.net/projects/qrl](http://seba1511.net/projects/qrl)
-* Preprint: [arxiv.org/abs/XXX](https://arxiv.org/abs/XXX)
+* Preprint: [arxiv.org/abs/2202.07808](https://arxiv.org/abs/2202.07808)
 * Code: [github.com/seba-1511/qrl](https://github.com/seba-1511/qrl)
 
 ## Citation
